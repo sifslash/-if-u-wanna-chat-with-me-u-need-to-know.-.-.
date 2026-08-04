@@ -1,3 +1,4 @@
 # if u wanna chat with me u need to know. . .
-      в общении со мной лучше сразу расставить границы, сразу скажите если я задела вас шуткой или своим высказыванием, т.к пальцы и язык у меня работают быстрее думалки. 
-      https://ru.pinterest.com/pin/374995106480669770/
+     <h1 align="center">Hi ! I'm <a href="https://daniilshat.ru/" target="_blank">Sif</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"</h3
